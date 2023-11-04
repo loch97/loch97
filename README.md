@@ -7,6 +7,7 @@ My research interests are wireless communication and communication networks.
 I have studied the 802.11 physical layer simulation and the queue delay analysis based on the effective capacity model.
 
 I find these studies interesting and want to learn more:
+  - **wireless communication networks**
   - mobile edge computing 
   - AIoT
   - quantum communication (awesome🤖)
