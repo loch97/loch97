@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-I'm looking for a PhD position, I just graduated from BUAA in June 2023 and got my bachelor’s degree from NUAA in June 2020. 👀
+I'm looking for a PhD position, I just received my master's degree from BUAA in June 2023 and got my bachelor’s degree from NUAA in June 2020. 👀
 
-My research interests are wireless communication and communication networks.
+My research interests are wireless communication networks.
 
-I have studied the 802.11 physical layer simulation and the queue delay analysis based on the effective capacity model.
+I have performed the 802.11 physical layer simulation and the queue delay analysis based on the effective capacity model.
 
 I find these studies interesting and want to learn more:
   - **wireless communication networks**
