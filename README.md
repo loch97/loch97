@@ -1,18 +1,15 @@
 ### Hi there 👋
 
-I'm looking for a PhD position, I just received my master's degree from BUAA in June 2023 and got my bachelor’s degree from NUAA in June 2020. 👀
-
-My research interests are wireless communication networks.
-
-I have performed the 802.11 physical layer simulation and the queue delay analysis based on the effective capacity model.
+I am working as a wireless communication engineer. And I enjoy exploring various wireless communication technologies.
 
 I find these studies interesting and want to learn more:
-  - **wireless communication networks**
-  - mobile edge computing 
-  - AIoT
-  - quantum communication (awesome🤖)
+  - integrated sensing and communication (ISAC)
+  - time-sensitive communication
+  - non-terrestrial networks (NTN)
+  - RIS-aided communication
+  - quantum communication (boson sampling)
 
-💬 Please do not hesitate to contact me if you require any additional information. [My email](junjiewu97@outlook.com)👈🏻
+💬 Contact me on [My email](junjiewu97@outlook.com)👈🏻
 
 <!--
 **loch97/loch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
