@@ -4,10 +4,9 @@ I am working as a wireless communication engineer. And I enjoy exploring various
 
 I find these studies interesting and want to learn more:
   - integrated sensing and communication (ISAC)
-  - time-sensitive communication
+  - time-sensitive communication (TSN)
   - non-terrestrial networks (NTN)
-  - RIS-aided communication
-  - quantum communication (boson sampling)
+  - AI/ML-aided communication
 
 💬 Contact me on [My email](junjiewu97@outlook.com)👈🏻
 
