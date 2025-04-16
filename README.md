@@ -1,14 +1,12 @@
 ### Hi there 👋
 
-I am working as a wireless communication engineer. And I enjoy exploring various wireless communication technologies.
+This is Junjie, I am a PhD candidate @UniTN.
+~~I am working as a wireless communication engineer.~~
 
-I find these studies interesting and want to learn more:
+My research interests conclude:
   - integrated sensing and communication (ISAC)
-  - time-sensitive communication (TSN)
-  - non-terrestrial networks (NTN)
+  - non-terrestrial network (NTN)
   - AI/ML-aided communication
-
-💬 Contact me on [My email](junjiewu97@outlook.com)👈🏻
 
 <!--
 **loch97/loch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
