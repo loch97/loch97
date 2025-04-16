@@ -3,10 +3,10 @@
 This is Junjie, I am a PhD candidate @UniTN.
 ~~I am working as a wireless communication engineer.~~
 
-My research interests conclude:
-  - integrated sensing and communication (ISAC)
-  - non-terrestrial network (NTN)
-  - AI/ML-aided communication
+My research interests include:
+  - Integrated Sensing and Communication (ISAC)
+  - Non-terrestrial Network (NTN)
+  - AI/ML-aided wireless communication
 
 <!--
 **loch97/loch97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
